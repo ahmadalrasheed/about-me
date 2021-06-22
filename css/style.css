@@ -4,7 +4,10 @@ h1{
     background-color: black;
     height: 40px;
     font-size: 30px;
+    padding-top: 50px;
 }
+
+
 
 nav ul li a{
     text-decoration: none;
@@ -12,15 +15,21 @@ nav ul li a{
 
 }
 
+
+
 nav{
     text-align: center;
     margin: 100px;
 }
 
-li{
+
+
+nav ul li{
     display: inline-block;
     padding: 20px;
 }
+
+
 
 h2,p{
     text-align: center;
@@ -28,10 +37,16 @@ h2,p{
 }
 
 
-p{margin: 200px;}
+
+
+p{margin: 5px;}
+
+
 
 
 header{background-color: black;}
+
+
 
 
 
@@ -39,5 +54,91 @@ body{background-color: wheat;}
 
 
 
-h2{font-size: 20px;}
+
+
+
+h2{font-size: 35px;list-style: armenian;}
+
+
+
+
+#firstdiv {margin-top: 100px;margin-bottom: 100px;padding: 10px;}
+
+
+
+
+
+
+#seconddiv {margin-top: 100px;margin-bottom: 100px;padding: 10px;}
+
+
+
+
+
+h3{text-align: center;font-size: 20px;}
+
+
+* {
+    padding: 0;
+  }
+  
+  ul {
+    /* if you want the standard bullets, use 'disc' instead of 'circle' */
+    list-style: disc;
+    list-style-position: inside;
+    padding-top: 10px;
+    
+  }
+
+
+
+
+
+  ol {
+    list-style-type:upper-alpha;
+    list-style-position: inside;
+    
+    padding-top: 10px;
+  }
+
+
+
+
+
+
+  ol , ul {
+      text-align: center;
+  }
+
+
+
+
+
+
+li{padding:10px;}
+
+
+
+
+
+footer{background-color: black;color: white;}
+
+
+
+
+
+main{
+
+    height: 700px;;
+
+}
+
+
+
+
+img{
+
+    margin-left: 570px;
+
+}
 
